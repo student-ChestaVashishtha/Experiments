@@ -1,0 +1,40 @@
+2025-11-18 12:48:01,548 - model_evaluation - ERROR - File not found: param.yaml
+2025-11-18 12:49:35,100 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 12:49:35,365 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 12:49:35,365 - model_evaluation - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/vectorizer/test_vectorizer.csv'
+2025-11-18 12:49:35,365 - model_evaluation - DEBUG - Unexpexted error occur in model evaluation: [Errno 2] No such file or directory: './data/vectorizer/test_vectorizer.csv'
+2025-11-18 12:49:57,065 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 12:49:57,334 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 12:49:57,358 - model_evaluation - DEBUG - Data loaded from ./data/vectorized/test_vectorized.csv
+2025-11-18 12:49:57,414 - model_evaluation - DEBUG - Metrics are evaluated
+2025-11-18 12:49:57,414 - model_evaluation - ERROR - Unexpected error while saving metrics: expected str, bytes or os.PathLike object, not dict
+2025-11-18 12:51:13,107 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 12:51:13,377 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 12:51:13,391 - model_evaluation - DEBUG - Data loaded from ./data/vectorized/test_vectorized.csv
+2025-11-18 12:51:13,418 - model_evaluation - DEBUG - Metrics are evaluated
+2025-11-18 12:51:13,418 - model_evaluation - ERROR - Unexpected error while saving metrics: expected str, bytes or os.PathLike object, not dict
+2025-11-18 12:53:04,798 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 12:53:05,112 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 12:53:05,123 - model_evaluation - DEBUG - Data loaded from ./data/vectorized/test_vectorized.csv
+2025-11-18 12:53:05,163 - model_evaluation - DEBUG - Metrics are evaluated
+2025-11-18 12:53:05,167 - model_evaluation - DEBUG - Metrics saved to  reports/metrics.json
+2025-11-18 12:54:38,877 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 12:54:39,111 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 12:54:39,117 - model_evaluation - DEBUG - Data loaded from ./data/vectorized/test_vectorized.csv
+2025-11-18 12:54:39,150 - model_evaluation - DEBUG - Metrics are evaluated
+2025-11-18 12:54:51,300 - model_evaluation - DEBUG - Metrics saved to  reports/metrics.json
+2025-11-18 12:56:36,973 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 12:56:37,200 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 12:56:37,213 - model_evaluation - DEBUG - Data loaded from ./data/vectorized/test_vectorized.csv
+2025-11-18 12:56:37,237 - model_evaluation - DEBUG - Metrics are evaluated
+2025-11-18 12:56:45,387 - model_evaluation - DEBUG - Metrics saved to  reports/metrics.json
+2025-11-18 14:35:15,065 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 14:35:15,553 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 14:35:15,594 - model_evaluation - DEBUG - Data loaded from ./data/vectorized/test_vectorized.csv
+2025-11-18 14:35:15,651 - model_evaluation - DEBUG - Metrics are evaluated
+2025-11-18 14:35:24,687 - model_evaluation - DEBUG - Metrics saved to  reports/metrics.json
+2025-11-18 15:05:59,525 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 15:05:59,808 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-18 15:06:00,406 - model_evaluation - DEBUG - Data loaded from ./data/vectorized/test_vectorized.csv
+2025-11-18 15:06:00,599 - model_evaluation - DEBUG - Metrics are evaluated
+2025-11-18 15:06:06,151 - model_evaluation - DEBUG - Metrics saved to  reports/metrics.json

@@ -1,0 +1,30 @@
+2025-11-17 22:18:04,206 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:18:04,206 - data_ingestion - ERROR - Failed to complete the data ingestion process: string indices must be integers, not 'str'
+2025-11-17 22:22:28,420 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:22:28,422 - data_ingestion - ERROR - Failed to complete the data ingestion process: string indices must be integers, not 'str'
+2025-11-17 22:23:29,403 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:23:29,404 - data_ingestion - ERROR - Failed to complete the data ingestion process: string indices must be integers, not 'str'
+2025-11-17 22:23:37,325 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:23:37,325 - data_ingestion - ERROR - Failed to complete the data ingestion process: string indices must be integers, not 'str'
+2025-11-17 22:35:17,255 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:35:17,255 - data_ingestion - ERROR - Failed to complete the data ingestion process: string indices must be integers, not 'str'
+2025-11-17 22:35:50,444 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:35:50,450 - data_ingestion - ERROR - Failed to complete the data ingestion process: string indices must be integers, not 'str'
+2025-11-17 22:37:10,034 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:37:10,035 - data_ingestion - ERROR - Failed to complete the data ingestion process: string indices must be integers, not 'str'
+2025-11-17 22:38:45,911 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:38:45,912 - data_ingestion - ERROR - Data ingestion failed: string indices must be integers, not 'str'
+2025-11-17 22:40:47,424 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:40:47,424 - data_ingestion - ERROR - Data ingestion failed: string indices must be integers, not 'str'
+2025-11-17 22:44:40,118 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 22:44:41,450 - data_ingestion - DEBUG - Data loaded successfully from https://raw.githubusercontent.com/amankharwal/Website-data/master/spam.csv
+2025-11-17 22:44:41,475 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-17 22:44:41,515 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-17 23:37:45,158 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 23:37:45,857 - data_ingestion - DEBUG - Data loaded successfully from https://raw.githubusercontent.com/amankharwal/Website-data/master/spam.csv
+2025-11-17 23:37:45,860 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-17 23:37:45,904 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-18 15:01:01,915 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-18 15:01:02,729 - data_ingestion - DEBUG - Data loaded successfully from https://raw.githubusercontent.com/amankharwal/Website-data/master/spam.csv
+2025-11-18 15:01:02,743 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-18 15:01:02,768 - data_ingestion - DEBUG - Train and test data saved to ./data\raw

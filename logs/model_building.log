@@ -1,0 +1,10 @@
+2025-11-18 12:22:29,990 - model_building - DEBUG - Params are loaded in params.yaml
+2025-11-18 12:22:30,014 - model_building - DEBUG - Data is loaded
+2025-11-18 12:22:30,016 - model_building - DEBUG - Initialising ExtraTreesClassifiers model with parameters n_estimaor=22 amd random_state=2
+2025-11-18 12:22:30,136 - model_building - DEBUG - Model trianing completed
+2025-11-18 12:22:30,147 - model_building - DEBUG - Model saved to models/model.pkl,
+2025-11-18 15:05:44,363 - model_building - DEBUG - Params are loaded in params.yaml
+2025-11-18 15:05:46,431 - model_building - DEBUG - Data is loaded
+2025-11-18 15:05:46,480 - model_building - DEBUG - Initialising ExtraTreesClassifiers model with parameters n_estimaor=50 amd random_state=2
+2025-11-18 15:05:53,945 - model_building - DEBUG - Model trianing completed
+2025-11-18 15:05:53,978 - model_building - DEBUG - Model saved to models/model.pkl,

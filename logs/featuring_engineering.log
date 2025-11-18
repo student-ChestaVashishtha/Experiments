@@ -1,0 +1,19 @@
+2025-11-18 11:08:11,649 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-11-18 11:08:11,686 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-11-18 11:08:11,890 - root - ERROR - Error during Bag of Words transformation: 'TfidfVectorizer' object has no attribute 'toarray'
+2025-11-18 11:08:11,898 - root - ERROR - Failed to complete the feature engineering process: 'TfidfVectorizer' object has no attribute 'toarray'
+2025-11-18 11:09:17,630 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-11-18 11:09:17,690 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-11-18 11:09:17,763 - root - DEBUG - tfdif applied and data transformed
+2025-11-18 11:09:17,864 - root - DEBUG - File has been saved in ./data/vectorized/train_vectorized.csv
+2025-11-18 11:09:17,906 - root - DEBUG - File has been saved in ./data/vectorized/test_vectorized.csv
+2025-11-18 15:03:42,566 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-11-18 15:03:42,577 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-11-18 15:03:42,720 - root - DEBUG - tfdif applied and data transformed
+2025-11-18 15:03:54,297 - root - DEBUG - File has been saved in ./data/vectorized/train_vectorized.csv
+2025-11-18 15:03:57,331 - root - DEBUG - File has been saved in ./data/vectorized/test_vectorized.csv
+2025-11-18 15:05:24,186 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-11-18 15:05:24,196 - root - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-11-18 15:05:24,357 - root - DEBUG - tfdif applied and data transformed
+2025-11-18 15:05:35,613 - root - DEBUG - File has been saved in ./data/vectorized/train_vectorized.csv
+2025-11-18 15:05:38,668 - root - DEBUG - File has been saved in ./data/vectorized/test_vectorized.csv
